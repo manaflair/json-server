@@ -1,0 +1,1 @@
+export { makeSequelizeBackend } from './makeSequelizeBackend';
